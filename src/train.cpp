@@ -33,5 +33,5 @@ int Train::getLength() {
   return cnt;
 }
 int Train::getOpCount() {
-  return countOp
+  return countOp;
 }
